@@ -1,2 +1,2 @@
 # CUDA-Programming-On-Ubuntu
-This repo contains a CUDA code that adds two matrices.
+This repo includes a PNG file that contains the CUDA code of Matrix Addition.
